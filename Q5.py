@@ -5,4 +5,4 @@ for letter in str[:4]:
   num_upper += 1
  if num_upper >= 2:
   print(str.upper())
-print(str)
+print(str) 
