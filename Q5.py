@@ -1,4 +1,4 @@
-str = input("Enter the String :")
+str = input("Enter the Strings :")
 num_upper = 0
 for letter in str[:4]: 
  if letter.upper() == letter:
