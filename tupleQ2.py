@@ -1,0 +1,6 @@
+tup = (4, 6, 2, 8, 3, 1) 
+print(tup)
+listx = list(tup) 
+listx.append(30)
+tup = tuple(listx)
+print(tup)
