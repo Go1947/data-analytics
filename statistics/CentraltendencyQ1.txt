@@ -1,0 +1,13 @@
+Given: weekly sales data (in units)
+Week 1: 50 units
+Week 2: 60 units
+Week 3: 55 units
+Week 4: 70 units
+1.Mean: M=(50+60+55+70)/4
+         =>(235)/4
+         =>58.75
+2.Median: m=(55+60)/2
+           =>(115)/2
+           =>57.5
+3.mode:The mode is the element that occurs most in the data set.
+       In this case, all elements occur only once, so there is no mode.                    
