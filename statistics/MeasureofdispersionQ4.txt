@@ -1,0 +1,15 @@
+Given data  the monthly revenue (in thousands of dollars) for the past 12 months:
+$120, $150, $110, $135, $125, $140, $130, $155, $115, $145, $135, $130
+1. Measure of Central Tendency (Average Monthly Revenue)
+The average (mean) monthly revenue is calculated by summing all the monthly revenues and dividing by the number of months.
+
+Average Revenue=∑Monthly Revenues/Number of Months
+Average Revenue= $120+$150+$110+…+$135+$130/12
+Average Revenue=$132.5 thousand
+
+2. Measure of Dispersion (Range of Monthly Revenue)
+The range is the difference between the maximum and minimum revenue values in the data set.
+
+Maximum revenue: $155 thousand
+Minimum revenue: $110 thousand
+Range=Maximum Revenue−Minimum Revenue=$155−$110=$45 thousand

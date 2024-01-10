@@ -1,0 +1,35 @@
+Given data the waiting times (in minutes) for the past 20 customers:
+15, 10, 20, 25, 15, 10, 30, 20, 15, 10,
+10, 25, 15, 20, 20, 15, 10, 10, 20, 25
+1. Mean (Average Waiting Time)
+The mean is calculated by summing all the waiting times and then dividing by the number of customers.
+
+Mean = ∑ Waiting Times / Number of Customers
+
+​
+ 
+
+Mean =15+10+20+25+15+10+30+20+15+10+10+25+15+20+20+15+10+10+20+25/20.
+
+Mean =340/20=17 minutes
+
+2. Median (Typical or Central Waiting Time)
+The median is the middle value in the ordered list of numbers. If the number of observations is odd, it is the middle number.
+The ordered list of waiting times is: 10, 10, 10, 10, 10, 10, 15, 15, 15, 15, 15, 20, 20, 20, 20, 20, 25, 25, 25, 30.
+Since there are 20 (even number) customers, the median will be the average of the 10th and 11th values.
+
+Median =15(10th value)+15(11th value)/2= 30/2 =15 minutes
+
+3. Mode (Most Frequently Occurring Waiting Times)
+The mode is the number that appears most frequently in a data set.
+
+From the list, we can count the frequency of each number:
+
+10 minutes: 6 times
+15 minutes: 5 times
+20 minutes: 5 times
+25 minutes: 3 times
+30 minutes: 1 time
+The number that appears most frequently is 10 minutes, occurring 6 times.
+
+Hence, the mode of the waiting times is 10 minutes.

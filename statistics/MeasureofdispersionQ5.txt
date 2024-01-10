@@ -1,0 +1,25 @@
+Given data the satisfaction ratings from 50 customers:
+8, 7, 9, 6, 7, 8, 9, 8, 7, 6,
+8, 9, 7, 8, 7, 6, 8, 9, 6, 7,
+8, 9, 7, 6, 7, 8, 9, 8, 7, 6,
+9, 8, 7, 6, 8, 9, 7, 8, 7, 6,
+9, 8, 7, 6, 7, 8, 9, 8, 7, 6
+1. Measure of Central Tendency (Average Satisfaction Rating)
+The average satisfaction rating is calculated by summing all the satisfaction ratings and dividing by the number of customers.
+
+Average Satisfaction=∑Satisfaction Ratings/Number of Customers
+Average Satisfaction= 8+7+9+6+…+9+8+7+6/50
+Average Satisfaction=7.5 (on a scale of 1 to 10)
+
+2. Measure of Dispersion (Standard Deviation of Satisfaction Ratings)
+Standard deviation measures the amount of variability or spread in a set of data.
+
+First, calculate the variance:
+
+Variance=∑(Rating−Mean)^2/Number of Customers
+Variance= 
+(8−7.5)^2+(7−7.5)^2+…+(7−7.5)^2+(6−7.5)^2/50
+Then, calculate the standard deviation as the square root of the variance:
+
+Standard Deviation=underroot(Variance)
+Standard Deviation≈1.025

@@ -1,0 +1,27 @@
+Given data the daily sales (in dollars) for the past 30 days:
+$500, $700, $400, $600, $550, $750, $650, $500, $600, $550,
+$800, $450, $700, $550, $600, $400, $650, $500, $750, $550,
+$700, $600, $500, $800, $550, $650, $400, $600, $750, $550
+1. Range of the Daily Sales
+The range is the difference between the maximum and minimum values in the data set.
+
+Maximum sales: $800
+Minimum sales: $400
+Range=Maximum−Minimum=$800−$400=$400
+
+2. Variance of the Daily Sales
+Variance measures how spread out the numbers are from the mean.
+
+First, calculate the mean (average) sales:
+
+Mean=∑Sales/Number of Days=$500+$700+…+$750+$550/30​
+Then, calculate the variance:
+
+Variance=∑(Sale−Mean)^2/Number of Days
+Variance=12725.0 dollars
+
+3. Standard Deviation of the Daily Sales
+Standard deviation is the square root of the variance, providing a measure of the average distance of each sales value from the mean.
+
+Standard Deviation=underroot(Variance)
+​Standard Deviation=12725.0≈$112.81

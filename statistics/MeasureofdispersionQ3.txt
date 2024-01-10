@@ -1,0 +1,28 @@
+Given data  the delivery times (in days) for a sample of 50 shipments:
+3, 5, 2, 4, 6, 2, 3, 4, 2, 5,
+7, 2, 3, 4, 2, 4, 2, 3, 5, 6,
+3, 2, 1, 4, 2, 4, 5, 3, 2, 7,
+2, 3, 4, 5, 1, 6, 2, 4, 3, 5,
+3, 2, 4, 2, 6, 3, 2, 4, 5, 3
+1. Range of the Delivery Times
+The range is the difference between the maximum and minimum values in the data set.
+
+Maximum delivery time: 7 days
+Minimum delivery time: 1 day
+Range=Maximum−Minimum=7−1=6 days
+
+2. Variance of the Delivery Times
+Variance measures how spread out the numbers are from the mean.
+
+First, calculate the mean (average) delivery time:
+
+Mean=∑Delivery Times/Number of Shipments 
+Mean=3+5+2+4+…+2+4+5+3/50
+Then, calculate the variance:
+Variance=∑(Delivery Time−Mean)^2/Number of Shipments
+Variance=2.29 days
+3.Standard Deviation of the Delivery Times
+Standard deviation is the square root of the variance, providing a measure of the average distance of each value from the mean.
+
+Standard Deviation=underroot(Variance)
+Standard Deviation= 2.29≈1.51 days

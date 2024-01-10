@@ -1,0 +1,39 @@
+Given data the number of units produced per hour by the machine for a sample of 10
+working days:
+Day 1: 120 units
+Day 2: 110 units
+Day 3: 130 units
+Day 4: 115 units
+Day 5: 125 units
+Day 6: 105 units
+Day 7: 135 units
+Day 8: 115 units
+Day 9: 125 units
+Day 10: 140 units
+
+Based on the production output data for a sample of 10 working days, we find the following measures of dispersion:
+
+1. Range of the Production Output
+The range is the difference between the maximum and minimum values in the data set.
+
+Maximum output: 140 units
+Minimum output: 105 units
+Range=Maximum−Minimum=140−105=35 units
+
+2. Variance of the Production Output
+Variance measures how spread out the numbers are from the mean.
+
+First, calculate the mean (average) output:
+
+Mean=∑Outputs/Number of Days=120+110+130+…+125+140/10
+Then, calculate the variance:
+
+Variance=∑(Output−Mean)^2/Number of Days 
+Variance=111.0 units.sq
+ 
+3. Standard Deviation of the Production Output
+Standard deviation is the square root of the variance, providing a measure of the average distance of each value from the mean.
+
+Standard Deviation =underroot(Variance)
+​
+Standard Deviation = 111.0 ≈ 10.54 units

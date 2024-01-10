@@ -1,0 +1,34 @@
+Given data  the wait times (in minutes) for a sample of 100 randomly selected
+customer calls:
+10, 15, 12, 18, 20, 25, 8, 14, 16, 22,
+9, 17, 11, 13, 19, 23, 21, 16, 24, 27,
+13, 10, 18, 16, 12, 14, 19, 21, 11, 17,
+15, 20, 26, 13, 12, 14, 22, 19, 16, 11,
+25, 18, 16, 13, 21, 20, 15, 12, 19, 17,
+14, 16, 23, 18, 15, 11, 19, 22, 17, 12,
+16, 14, 18, 20, 25, 13, 11, 22, 19, 17,
+15, 16, 13, 14, 18, 20, 19, 21, 17, 12,
+15, 13, 16, 14, 22, 21, 19, 18, 16, 11,
+17, 14, 12, 20, 23, 19, 15, 16, 13, 18
+1. Measure of Central Tendency (Average Wait Time)
+The average wait time is calculated by summing all the wait times and dividing by the number of calls.
+
+Average Wait Time=∑Wait Times/Number of Calls
+Average Wait Time= 10+15+12+…+16+13+18/100
+Average Wait Time=16.74 minutes
+
+2. Measure of Dispersion (Range of Wait Times)
+The range is the difference between the maximum and minimum wait times in the data set.
+
+Maximum wait time: 27 minutes
+Minimum wait time: 8 minutes
+Range=Maximum Wait Time−Minimum Wait Time=27−8=19 minutes
+
+3. Measure of Dispersion (Standard Deviation of Wait Times)
+Standard deviation measures the amount of variability or spread in a set of data.
+
+Standard Deviation=underroot(Variance)
+​
+Variance= 
+∑(Wait Time−Mean Wait Time)^2/Number of Calls
+Standard Deviation≈4.12 minutes
