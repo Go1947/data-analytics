@@ -1,0 +1,42 @@
+Given data  the ages of 100 employees:
+28, 32, 35, 40, 42, 28, 33, 38, 30, 41,
+37, 31, 34, 29, 36, 43, 39, 27, 35, 31,
+39, 45, 29, 33, 37, 40, 36, 29, 31, 38,
+35, 44, 32, 39, 36, 30, 33, 28, 41, 35,
+31, 37, 42, 29, 34, 40, 31, 33, 38, 36,
+39, 27, 35, 30, 43, 29, 32, 36, 31, 40,
+38, 44, 37, 33, 35, 41, 30, 31, 39, 28,
+45, 29, 33, 38, 34, 32, 35, 31, 40, 36,
+39, 27, 35, 30, 43, 29, 32, 36, 31, 40,
+38, 44, 37, 33, 35, 41, 30, 31, 39, 28
+1. Frequency Distribution
+Here's the frequency distribution table for the ages:
+
+Age	Frequency
+27	3
+28	5
+29	7
+30	6
+31	10
+32	5
+33	7
+34	3
+35	9
+36	7
+37	5
+38	6
+39	7
+40	6
+41	4
+42	2
+43	3
+44	3
+45	2
+2. Mode (Most Common Age)
+The most common age among the employees is 31 years, occurring 10 times.
+
+3. Median (Middle Age)
+The median age of the employees, which represents the middle value in the sorted list, is 35 years.
+
+4. Range (Spread of Ages)
+The range of ages among the employees is 18 years, calculated as the difference between the maximum age (45 years) and minimum age (27 year

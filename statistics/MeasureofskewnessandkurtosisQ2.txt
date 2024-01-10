@@ -1,0 +1,14 @@
+Skewness: The skewness of the income distribution is approximately 0.221.
+Kurtosis: The kurtosis of the income distribution is approximately -0.945.
+Interpretation:
+Skewness Interpretation:
+
+A skewness value close to 0 indicates a symmetric distribution.
+In this case, a skewness of 0.221 suggests a slight skew to the right, meaning there are somewhat more 
+individuals with incomes higher than the average.
+Kurtosis Interpretation:
+
+Kurtosis measures the "tailedness" of the distribution.
+A kurtosis value less than 0 (which is -0.945 here) indicates a distribution with lighter tails than a 
+normal distribution. This suggests fewer outliers, meaning there are fewer individuals with extremely 
+high or low incomes compared to a normal distribution.

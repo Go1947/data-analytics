@@ -1,0 +1,26 @@
+Given data the satisfaction ratings from 200 customers:
+Ratings: 4, 5, 3, 4, 4, 3, 2, 5, 4, 3,
+5, 4, 2, 3, 4, 5, 3, 4, 5, 3,
+4, 3, 2, 4, 5, 3, 4, 5, 4, 3,
+3, 4, 5, 2, 3, 4, 4, 3, 5, 4,
+3, 4, 5, 4, 2, 3, 4, 5, 3, 4,
+5, 4, 3, 4, 5, 3, 4, 5, 4, 3,
+3, 4, 5, 2, 3, 4, 4, 3, 5, 4,
+3, 4, 5, 4, 2, 3, 4, 5, 3, 4,
+5, 4, 3, 4, 5, 3, 4, 5, 4, 3,
+3, 4, 5, 2, 3, 4, 4, 3, 5, 4
+Skewness: The skewness of the satisfaction ratings is approximately -0.208.
+Kurtosis: The kurtosis of the satisfaction ratings is approximately -0.768.
+Interpretation:
+Skewness Interpretation:
+
+A skewness value close to 0 indicates a symmetric distribution.
+A negative skewness value, as in this case (-0.208), indicates that the distribution is skewed 
+to the left. This means that there are more lower satisfaction ratings (towards 1) compared to higher 
+ratings (towards 5).
+Kurtosis Interpretation:
+
+Kurtosis measures the "tailedness" of the distribution.
+A negative kurtosis value (-0.768) indicates a distribution with lighter tails and a less sharp peak 
+than a normal distribution. This suggests fewer extreme values (both very high and very low ratings) in 
+the satisfaction ratings.

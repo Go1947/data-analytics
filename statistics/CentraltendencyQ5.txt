@@ -1,0 +1,47 @@
+Given data the purchase amounts (in dollars) for a sample of 50 customers:
+56, 40, 28, 73, 52, 61, 35, 40, 47, 65,
+52, 44, 38, 60, 56, 40, 36, 49, 68, 57,
+52, 63, 41, 48, 55, 42, 39, 58, 62, 49,
+59, 45, 47, 51, 65, 41, 48, 55, 42, 39,
+58, 62, 49, 59, 45, 47, 51, 65, 43, 58
+1. Frequency Distribution
+Here's the frequency distribution table for the purchase amounts:
+
+PurchaseAmount	Frequency
+28	              1
+35	              1
+36	              1
+38	              1
+39	              2
+40	              3
+41	              2
+42	              2
+43	              1
+44	              1
+45	              2
+47	              3
+48	              2
+49	              3
+51	              2
+52	              3
+55	              2
+56	              2
+57	              1
+58	              3
+59	              2
+60	              1
+61	              1
+62	              2
+63	              1
+65	              3
+68	              1
+73	              1
+2. Mode (Most Common Purchase Amount)
+The most common purchase amount among the customers is $40, occurring 3 times.
+
+3. Median (Middle Purchase Amount)
+The median purchase amount, representing the middle value in the sorted list, is $50.
+
+4. Interquartile Range (IQR)
+The interquartile range, which is the difference between the 75th percentile (Q3) and the 25th percentile (Q1), is 16 dollars. 
+This represents the range between the middle 50% of the purchase amounts.

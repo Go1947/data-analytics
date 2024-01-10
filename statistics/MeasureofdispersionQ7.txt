@@ -1,0 +1,26 @@
+Given data  the fuel efficiency (in miles per gallon, mpg) for a sample of 50 vehicles:
+Model A: 30, 32, 33, 28, 31, 30, 29, 30, 32, 31,
+Model B: 25, 27, 26, 23, 28, 24, 26, 25, 27, 28,
+Model C: 22, 23, 20, 25, 21, 24, 23, 22, 25, 24,
+Model D: 18, 17, 19, 20, 21, 18, 19, 17, 20, 19,
+Model E: 35, 36, 34, 35, 33, 34, 32, 33, 36, 34
+Model A
+Average Fuel Efficiency: 30.6 mpg
+Range of Fuel Efficiency: 5 mpg (maximum 33 mpg, minimum 28 mpg)
+Variance of Fuel Efficiency: 2.04 mpg²
+Model B
+Average Fuel Efficiency: 25.9 mpg
+Range of Fuel Efficiency: 5 mpg (maximum 28 mpg, minimum 23 mpg)
+Variance of Fuel Efficiency: 2.49 mpg²
+Model C
+Average Fuel Efficiency: 22.9 mpg
+Range of Fuel Efficiency: 5 mpg (maximum 25 mpg, minimum 20 mpg)
+Variance of Fuel Efficiency: 2.49 mpg²
+Model D
+Average Fuel Efficiency: 18.8 mpg
+Range of Fuel Efficiency: 4 mpg (maximum 21 mpg, minimum 17 mpg)
+Variance of Fuel Efficiency: 1.56 mpg²
+Model E
+Average Fuel Efficiency: 34.2 mpg
+Range of Fuel Efficiency: 4 mpg (maximum 36 mpg, minimum 32 mpg)
+Variance of Fuel Efficiency: 1.56 mpg²
