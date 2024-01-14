@@ -1,0 +1,20 @@
+Given data the waiting times (in minutes) for a sample of 100 customers:
+Waiting Times: 12, 18, 15, 22, 20, 14, 16, 21, 19, 17,
+22, 19, 13, 16, 21, 22, 17, 19, 22, 18,
+14, 20, 19, 17, 22, 18, 15, 21, 20, 16,
+12, 18, 15, 22, 20, 14, 16, 21, 19, 17,
+22, 19, 13, 16, 21, 22, 17, 19, 22, 18,
+14, 20, 19, 17, 22, 18, 15, 21, 20, 16,
+12, 18, 15, 22, 20, 14, 16, 21, 19, 17,
+22, 19, 13, 16, 21, 22, 17, 19, 22, 18,
+14, 20, 19, 17, 22, 18, 15, 21, 20, 16,
+12, 18, 15, 22, 20, 14, 16, 21, 19, 17
+
+Skewness: The skewness of the waiting time distribution is approximately -0.330.
+Kurtosis: The kurtosis of the waiting time distribution is approximately -0.897.
+
+Conclusion on Waiting Time Distribution:
+The leftward skewness indicates that a majority of customers experience waiting times that are shorter 
+than the average, with fewer customers experiencing longer waiting times.
+The negative kurtosis suggests a lack of significant outliers in waiting times, meaning there are not 
+many instances of extremely high or low waiting times.

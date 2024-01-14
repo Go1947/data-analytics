@@ -1,0 +1,19 @@
+Given data  the monthly advertising expenditure (in thousands of dollars) and
+corresponding sales revenue (in thousands of dollars) for a sample of 12 months:
+Advertising Expenditure: 10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38
+Sales Revenue: 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105
+
+The correlation coefficient between advertising expenditure and sales revenue is approximately 0.999.
+ This value is very close to 1, indicating a strong positive correlation.
+
+Interpretation of the Correlation Coefficient:
+Strength and Direction: A correlation coefficient close to 1 signifies a very strong positive 
+relationship. This means that as advertising expenditure increases, sales revenue also increases in a 
+nearly proportional manner.
+Effectiveness of Advertising: The high correlation suggests that the advertising campaigns are highly 
+effective. The increase in advertising expenditure is strongly associated with an increase in sales 
+revenue.
+Decision Making: This information is crucial for the marketing department. Given the strong positive 
+relationship, the company can expect that increasing advertising expenditure will likely lead to an 
+increase in sales revenue, which can inform decisions about budget allocations for future advertising 
+campaigns.

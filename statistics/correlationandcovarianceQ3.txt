@@ -1,0 +1,25 @@
+the number of hours spent studying and the corresponding exam scores
+for a sample of 30 students:
+Hours Spent Studying: 10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38, 40, 42, 45, 48, 50,
+52, 55, 58, 60, 62, 65, 68, 70, 72, 75, 78, 80, 82
+Exam Scores: 60, 65, 70, 75, 80, 82, 85, 88, 90, 92, 93, 95, 96, 97, 98, 99, 100, 102,
+105, 106, 107, 108, 110, 112, 114, 115, 116, 118, 120, 122
+
+The correlation coefficient between the hours spent studying and the exam scores is approximately 0.977.
+ This value is very close to 1, indicating a strong positive correlation.
+
+Interpretation of the Correlation Coefficient:
+Strength and Direction: A correlation coefficient close to 1 signifies a very strong positive 
+relationship. In this context, it means that as the number of hours spent studying increases, the exam 
+scores also tend to increase proportionally.
+Effectiveness of Studying: The high correlation suggests that there is a strong association between the 
+amount of time spent studying and the achievement of higher exam scores. This implies that, generally, 
+students who spend more time studying tend to achieve better exam scores.
+Educational Implications: This information is valuable for students and educators. It highlights the 
+importance of dedicating sufficient time to study in ​​
+order to achieve better academic outcomes. For educators, this could inform strategies to encourage 
+more effective study habits among students.
+
+Limitation: While the correlation is strong, it's important to note that correlation does not imply 
+causation. Factors other than just the number of study hours (such as the quality of study, previous 
+knowledge, or testing skills) might also play a significant role in determining exam scores.

@@ -1,0 +1,21 @@
+Given data a sample of 150 houses:
+House Prices: 280, 350, 310, 270, 390, 320, 290, 340, 310, 380,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290,
+270, 350, 300, 330, 370, 310, 280, 320, 350, 290
+
+Skewness: The skewness of the house price distribution is approximately 0.193.
+Kurtosis: The kurtosis of the house price distribution is approximately -1.069.
+
+Conclusion on House Price Distribution:
+The slight rightward skewness suggests that while most house prices are clustered around the median, 
+there are some houses priced significantly higher than the average, which stretches the tail on the 
+higher end.
+The negative kurtosis indicates a lack of significant outliers in house prices, meaning there are not
+ many houses with extremely high or low prices compared to the general distribution.
