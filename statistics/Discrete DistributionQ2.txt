@@ -1,0 +1,12 @@
+This scenario can be modeled using a binomial distribution, which describes the number of successes in a 
+fixed number of independent Bernoulli trials, each with the same probability of success. Here, a 
+"success" is defined as winning a round.
+
+The binomial probability mass function (PMF) is given by:
+P(X=x)=(x n)p^x(1−p)*n−x
+Using the binomial probability mass function (PMF), we find that the probability of winning exactly 3 out
+of 10 rounds is about 26.7%. This reflects the likelihood of achieving this specific number of wins 
+under the given conditions
+
+
+

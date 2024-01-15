@@ -1,0 +1,14 @@
+In a uniform distribution, every interval of the same length within the distribution's range has an equal
+probability of being observed. The probability of an event occurring within a certain interval in a uniform 
+distribution is calculated as the length of that interval divided by the total length of the distribution's range.
+
+The formula for the probability of an event occurring in a certain interval for a uniform distribution is:
+P(a≤X≤b)=b−a/x2−x1
+
+In this case, the calculation is:
+P(150≤X≤170)= 170−150/200−100 = 20/100 =0.2
+Thus, the probability that an apple chosen at random from the basket will weigh between 150 and 170 grams 
+is 20%. This reflects the equal likelihood of any weight within the specified range in a uniform distribution.
+​
+
+

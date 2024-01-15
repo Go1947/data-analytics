@@ -1,0 +1,12 @@
+This problem is an example of a hypergeometric distribution, which is used to calculate probabilities 
+when sampling without replacement. The hypergeometric probability mass function (PMF) is used to find
+the probability of drawing a specific number of successes (in this case, hearts) from a finite 
+population without replacement.
+
+The formula for the hypergeometric PMF is:
+P(X=k)= (k n)(N−k M−n)/(N M)
+
+In this calculation, we used the hypergeometric distribution with the parameters M=52 (total cards), 
+n=13 (total hearts), N=5 (cards drawn), and k=2 (hearts to be drawn) to find the probability of getting 
+exactly two hearts in a draw of five cards. The resulting probability is approximately 27.4%.
+​

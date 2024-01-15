@@ -1,0 +1,11 @@
+In an exponential distribution, the probability of an event occurring within a certain time frame can be 
+calculated using the cumulative distribution function (CDF). The CDF gives the probability that a random variable 
+X is less than or equal to a certain value x.
+
+The formula for the CDF of an exponential distribution is:
+F(x;λ)=1−e^−λx
+The mean μ is 20 minutes, so the rate parameter λ=1/20.
+We calculate F(15;1/20) to find the probability of completing the task in less than 15 minutes.
+
+The resulting probability of approximately 52.8% suggests that there is a more than half chance that the 
+task will be completed in less than 15 minutes, according to this exponential distribution model.

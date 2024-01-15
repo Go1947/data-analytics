@@ -1,0 +1,14 @@
+The Poisson distribution is used to model the number of times an event occurs within a given interval of 
+time or space. The probability mass function (PMF) of the Poisson distribution provides the probability 
+of observing a specific number of events (in this case, defects) given a known average rate of occurrence.
+
+The formula for the Poisson PMF is:
+F(x;λ)=1−e^−λx
+Applying this formula to the given data:
+λ=2
+x=3
+The probability of observing exactly 3 defects in a batch is calculated as having exactly 3 defects in a 
+randomly selected batch of smartphones, given that the number of defects per batch follows a Poisson 
+distribution with a mean of 2 defects, is approximately 0.180, or 18.0%.
+
+

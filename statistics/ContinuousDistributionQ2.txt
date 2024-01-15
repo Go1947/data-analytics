@@ -1,0 +1,15 @@
+In an exponential distribution, the probability of a random variable exceeding a certain value can be 
+calculated using the cumulative distribution function (CDF) and then finding its complement.
+
+The formula for the probability of a random variable X exceeding a value x in an exponential distribution is:
+P(X>x)=1−F(x;λ)
+
+The result, approximately 40.7%, indicates that there's a significant chance that a light bulb from this 
+brand will last longer than 900 hours, according to the exponential distribution model. This probability
+ reflects the nature of the exponential distribution where the likelihood of a longer lifetime decreases
+  as the duration increases. ​​
+
+
+
+
+

@@ -1,0 +1,13 @@
+This probability calculation involves the use of the cumulative distribution function (CDF) of a normal 
+distribution. The CDF provides the probability that a random variable is less than or equal to a certain 
+value.
+
+The probability that an apple weighs less than or equal to the lower limit (140 grams) is calculated using 
+the CDF with the given mean and standard deviation.
+Similarly, the probability that an apple weighs less than or equal to the upper limit (160 grams) is also
+calculated.
+The probability of an apple's weight lying in the range between 140 and 160 grams is the difference between 
+these two probabilities.
+The result indicates that there is about a 68.3% chance that an apple selected at random from the basket 
+will fall within this weight range. This reflects the typical range of variability in apple weights around 
+the mean of 150 grams in a normal distribution. ​

@@ -1,0 +1,12 @@
+This problem involves calculating the probability within a range for a normal distribution.
+
+The cumulative distribution function (CDF) of a normal distribution gives the probability that a random 
+variable is less than or equal to a certain value.
+To find the probability that a value lies within a range (900 to 1100 hours in this case), we calculate 
+the CDF for the upper limit (1100 hours) and subtract the CDF for the lower limit (900 hours).
+The probability that a value X lies within the range x1 to x2 in a normal distribution is calculated as:
+P(X>x)=1−P(X≤x)
+
+In this case, the calculated probability of approximately 68.3% indicates that there is a high likelihood 
+of a light bulb from this brand lasting within this specified range of hours. This reflects the typical 
+variability of lifetimes for these light bulbs around the mean of 1000 hours.

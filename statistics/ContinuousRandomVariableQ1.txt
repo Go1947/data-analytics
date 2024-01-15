@@ -1,0 +1,13 @@
+This problem involves a normal distribution, where we need to calculate the probability of a value being 
+greater than a certain threshold (in this case, 180 cm).
+
+The formula to calculate this probability is:
+P(X>x)=1−P(X≤x)
+
+where:
+P(X>x) is the probability of a value being greater than a certain threshold.
+P(X≤x) is the cumulative probability up to that threshold. It's obtained using the cumulative distribution function (CDF) of the normal distribution.
+
+Hence, the probability of a randomly selected student being taller than 180 cm in this class is 
+approximately 6.68%. This reflects the relative rarity of students in this height range given the 
+class's average height and variability. 

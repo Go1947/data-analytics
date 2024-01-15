@@ -1,0 +1,25 @@
+This problem can be solved using the concept of probability without replacement. The probability of each
+event (drawing a blue ball) changes with each draw since the total number of balls decreases after each 
+draw.
+
+Probability of Drawing the First Blue Ball:
+There are 20 blue balls out of a total of 60 balls (30 red + 20 blue + 10 green).
+Thus, the probability first blue P (first blue)= 20/60
+
+Probability of Drawing the Second Blue Ball:
+After one blue ball is drawn, there are 19 blue balls left out of 59 total balls.
+Thus, the probability P (second blue) = 19/59.
+​
+Probability of Drawing the Third Blue Ball:
+After two blue balls are drawn, there are 18 blue balls left out of 58 total balls.
+Thus, the probability P(third blue) = 18/58.
+
+Total Probability:
+The total probability of drawing three blue balls without replacement is the product of the 
+probabilities of each individual event.
+Total Probability
+=P(first blue)×P(second blue)×P(third blue)≈ 0.0333
+
+This calculation shows that the likelihood of selecting three blue balls consecutively without 
+replacement is quite low (about 3.33%), reflecting the reduced probability with each draw due to the 
+decreasing number of blue balls and the total number of balls in the bag

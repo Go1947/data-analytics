@@ -1,0 +1,16 @@
+This problem can be solved using the binomial probability formula, which is used to determine the 
+probability of observing exactly k successes in n independent Bernoulli trials, each with a success
+probability of p. In this context, a "success" is defined as rolling a 3.
+
+The binomial probability formula is given by:
+P(X=k)=(k n)p^k (1−p)^(n−k)
+
+where:
+P(X=k) is the probability of getting exactly k successes.
+(k n) is the binomial coefficient, calculated as n!/[k!(n−k)!], representing the number of ways to 
+choose k successes from n trials.
+p is the probability of success on a single trial (1/6 for rolling a 3 on a six-sided die).
+n is the total number of trials (100 rolls).
+k is the number of successes (rolling a 3) we're interested in (5 times).
+Using this formula, we calculated the probability of rolling exactly five 3's in 100 rolls as
+ approximately 0.00029, or 0.029%. This is a relatively low probability, indicating that it's quite unlikely (but not impossible) to roll exactly five 3's in 100 rolls of a fair six-sided die. 

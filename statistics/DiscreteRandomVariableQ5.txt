@@ -1,0 +1,11 @@
+This problem can be solved using the binomial probability formula, as it describes the probability of 
+achieving exactly 
+k successes (goals scored) in n independent Bernoulli trials (shots), each with the same probability of 
+success (p).
+
+The binomial probability mass function (PMF) is given by:
+P(X=k)=(k n)p^k (1−p)^(n−k)
+
+By applying this formula, we find that the probability of the player scoring exactly three goals out of 
+10 shots is approximately 26.7%. This calculation reflects the likelihood of achieving this specific 
+number of successful outcomes

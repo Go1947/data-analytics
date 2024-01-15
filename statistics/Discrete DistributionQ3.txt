@@ -1,0 +1,14 @@
+To calculate this probability, it's easier to first determine the probability of the complementary event,
+ which is not rolling a 6 in any of the three rolls, and then subtracting this probability from 1.
+
+Probability of Not Rolling a 6 in One Roll:
+
+Since the die is fair, the probability of rolling a 6 is 1/6. Therefore, the probability of not rolling a 6 is 
+1−1/6=5/6
+Probability of Not Rolling a 6 in All Three Rolls:
+The events are independent, so the probability of not rolling a 6 in all three rolls is (5/6)^3
+
+Probability of Rolling At Least One 6 in Three Rolls:
+This is the complement of not rolling a 6 in any roll. Therefore, it is 1−(5/6)^3
+The calculation yields a probability of approximately 42.1%, indicating that there's a significant chance 
+of rolling at least one 6 in three rolls of the die.

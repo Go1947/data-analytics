@@ -1,0 +1,14 @@
+This problem involves calculating the probability for a binomial distribution, which describes the number
+of successes in a fixed number of independent Bernoulli trials, each with the same probability of success. In this scenario, a "success" is defined as correctly guessing the answer to a question.
+
+The probability of guessing a single question correctly (success probability p) is 1/4 or 0.25, since 
+there are four possible answers per question.We need to calculate the probability of getting exactly 
+8, 9, or 10 questions correct and sum these probabilities.
+
+The binomial probability mass function (PMF) is given by:
+P(X=k)=(k n)p^k (1−p)^(n−k)
+
+By applying this formula, we calculated the probabilities for exactly 8, 9, and 10 correct guesses and 
+summed them to get the total probability of getting at least 8 questions correct. The combined probability
+ of these scenarios is approximately 0.0416%. This low probability indicates that randomly guessing on 
+ such a test has a very small chance of resulting in a high number of correct answers. ​
