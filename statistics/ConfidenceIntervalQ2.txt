@@ -1,0 +1,21 @@
+To calculate a 90% confidence interval for the population proportion based on the sample proportion, 
+we use the formula:
+
+Confidence Interval= p±z*(underoot(p(1− p)/n))
+
+Sample size (n) = 500
+Number of individuals who support the policy (x) = 320
+Therefore, the sample proportion (p) = x/n = 320 / 500
+Confidence level = 90%
+
+he z-score for a 90% confidence level is typically around 1.645 The 90% confidence interval for the 
+proportion of people in the city who support the particular policy, based on the given sample data, is 
+approximately from 60.47% to 67.53%. This means we can be 90% confident that the true proportion of the 
+population that supports the policy lies within this range
+​
+ 
+
+
+
+
+

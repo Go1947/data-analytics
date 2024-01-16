@@ -1,0 +1,31 @@
+Hypotheses:
+Null Hypothesis (H0): The average weight of the product is 500 grams. 
+H0:μ=500 grams.
+Alternative Hypothesis (H1): The average weight of the product is not 500 grams.
+H1:μ=500 grams.
+
+Test Statistic:
+The test statistic for a one-sample t-test is calculated using the formula:
+t= x−μ/(s/ underoot(n))
+
+Decision Rule:
+The decision to reject or fail to reject the null hypothesis will be based on the t-statistic and the 
+critical t-value from the t-distribution table for a specified confidence level (usually 95%). The 
+degrees of freedom in this case are n−1.
+
+The calculated t-statistic is approximately 2.5, and the critical t-value for a 95% confidence level 
+with 24 degrees of freedom (two-tailed test) is approximately 2.064.
+
+In hypothesis testing, if the absolute value of the t-statistic is greater than the critical t-value,
+we reject the null hypothesis. Here, since ∣2.5∣>2.064, we reject the null hypothesis.
+
+Therefore, based on this test, there is sufficient statistical evidence to reject the company's claim 
+that the average weight of its product is 500 grams. The sample data suggests that the average weight is 
+significantly different from 500 grams.
+​
+ 
+
+​
+
+
+

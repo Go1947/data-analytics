@@ -1,0 +1,16 @@
+To calculate a 95% confidence interval for the population mean height, we can use the following formula 
+when the sample size is large (which is generally considered to be the case for n ≥ 30):
+
+Confidence Interval=x±z*(s/underoot(n))
+
+Sample size (n) = 100
+Sample mean (x) = 170 cm
+Sample standard deviation (s) = 8 cm
+Confidence level = 95%
+
+For a 95% confidence level, the z-score is typically 1.96 (this value corresponds to the point that cuts 
+off the upper 2.5% of a standard normal distribution, as 95% confidence level leaves 5% in the tails, 
+split into 2.5% in each tail).
+The 95% confidence interval for the population mean height, based on the provided sample data, is
+ approximately from 168.432 cm to 171.568 cm.​
+

@@ -1,0 +1,24 @@
+Null Hypothesis (H0): The null hypothesis is the statement that there is no effect or no difference. 
+In this case, it would be that the new teaching method does not improve student performance relative to 
+the traditional method. It can be stated as:
+
+H0:μ (new)=μ (traditional)
+
+Here,μ (new) represents the mean test score of students taught using the new method, and μ (traditional)
+​represents the mean test score of students taught using the traditional method. The null hypothesis posits 
+that these two means are equal, indicating no difference in performance between the two teaching methods.
+
+Alternative Hypothesis (H1): The alternative hypothesis is what the researcher is trying to prove. In 
+this case, it is that the new teaching method improves student performance. This hypothesis would 
+typically be stated as:
+
+H1:μ (new)>μ (traditional)
+
+This is a one-tailed hypothesis, as it specifically states that the new method is better (not just
+different) than the traditional method.
+​In summary, the null hypothesis states that there is no difference in average test scores between the 
+two groups, while the alternative hypothesis states that the group taught with the new method will have
+ higher average test scores than the group taught with the traditional method
+
+
+
