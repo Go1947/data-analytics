@@ -1,0 +1,26 @@
+To determine if there is a significant difference in intelligence between boys and girls based on the 
+data provided, we can perform a hypothesis test, specifically an independent two-sample t-test. This 
+test is appropriate here as we are comparing the means of two independent groups.
+
+The null hypothesis (H0) for this test is that there is no difference in the mean intelligence scores 
+between boys and girls. The alternative hypothesis (H1) is that there is a significant difference.
+
+The formula for the t-statistic in an independent two-sample t-test is:
+t= X1−X2/underoot(s1^2/n1 + s2^2/n2)
+
+where:
+X1 and X2 are the sample means,
+s1^2 and s2^2 are the sample variances,
+n1 and n2 are the sample sizes.
+​
+For girls: Mean (X1) = 89, Standard Deviation (s1) = 4, Size (n1) = 50.
+For boys: Mean (X2) = 82, Standard Deviation (s2) = 9, Size (n 2) = 120.
+​
+The calculated t-statistic is approximately 5.28, and the corresponding p-value is about 3.96×10^−7.
+In statistical testing, a low p-value (typically less than 0.05) indicates that the null hypothesis 
+(no difference in means) can be rejected. In this case, the p-value is much lower than 0.05, suggesting
+ that the difference in mean intelligence scores between girls and boys is statistically significant.
+
+Therefore, based on this test, we can conclude that there is a significant difference in the mean 
+intelligence scores of the two groups, contradicting the initial assumption that there is no significant
+ difference.

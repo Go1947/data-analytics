@@ -1,0 +1,22 @@
+The Chi-square test evaluates whether there is a significant association between two categorical 
+variables. Here, the variables are "smoking status" and "cancer diagnosis." The test compares the 
+observed frequencies in each category with the frequencies we would expect if there were no association
+between the variables (the expected frequencies).
+
+The Chi-square statistic is calculated using the formula:
+χ2=∑(O−E)^2/E 
+
+where O represents the observed frequency, and E represents the expected frequency. The expected 
+frequency for each cell in a contingency table is calculated by: 
+E= (Row Total)×(Column Total)/(Grand Total)
+
+Calculate Chi-square statistic: Using the observed and expected frequencies, we calculate the sum of (O−E)^2/E
+for each cell.
+
+The p-value is then derived from the Chi-square statistic and the degrees of freedom (which, in a 2x2 table, is 1). 
+A low p-value indicates that the observed association is unlikely to have occurred by chance, suggesting a significant relationship between the variables.
+
+In our earlier calculation, the Chi-square statistic was 23.14, and the p-value was approximately 1.51×10^−6
+.This low p-value indicates that the association observed in your data is statistically significant, meaning 
+it is unlikely to be due to random chance.​
+ 
